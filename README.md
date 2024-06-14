@@ -4,7 +4,7 @@
 
 * Étape 1
   * Création de la structure HTML
-  * Mise en place des éléments (Images/liens)
+  * Mise en place des éléments (images/liens)
 * Étape 2
   * Création CSS
   * Création JS
@@ -13,7 +13,7 @@
 
 ## Étape 1
 
-Pour cette étape j'ai décidé de créer la structure de base à laquelle j'avais pensé
+Pour cette étape, j'ai décidé de créer la structure de base à laquelle j'avais pensé
 
 ```html
 <!doctype html>
@@ -37,17 +37,17 @@ Pour cette étape j'ai décidé de créer la structure de base à laquelle j'ava
 </body>
 ```
 
-Une fois la structure faite j'y ai ajouté les diffents textes, images, liens que j'avais.
+Une fois la structure faite, j'y ai ajouté les différents textes, images et liens que j'avais.
 
 ![Structure de base](Images/Structure-de-base1.png)
 
 ## Étape 2
 
-Pour cette deuxième étape, j'ai crée un CSS basique qui a pu me permettre de mettre en place la forme du site et de réajuster mon code en fonction, pour que je puisse me repérer facilement.
+Pour cette deuxième étape, j'ai créé un CSS basique qui a permis de mettre en place la forme du site et de réajuster mon code en conséquence, pour que je puisse me repérer facilement.
 
 ![Css-de-base](Images/css-de-base-1.png)
 
-Une fois le css créer j'ai ensuite codé la partie Java Script pour avoir une bare de navigation clicable et un carroussel fonctionnel.
+Une fois le CSS créé j'ai ensuite codé la partie JavaScript pour avoir une barre de navigation clicable et un carrousel fonctionnel.
 
 ```javascript
 function showSlides(n) {
@@ -69,7 +69,7 @@ function showSlides(n) {
 
 ## Étape 3
 
-Une fois les deux étapes précédentes fait et la fonctionnalité des actions vérifiées, j'ai donc terminé le CSS pour avoir le rendu final et être pret à déployer ce site.
+Une fois les deux étapes précédentes faites et la fonctionnalité des actions vérifiée, j'ai donc terminé le CSS pour rendre le site responsive et obtenir le rendu final pour être pret à être déployer.
 
 ![final](Images/final.png)
 
