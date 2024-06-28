@@ -1,6 +1,6 @@
 # Mon-portfolio
 
-## Les différentes épates :
+## Les différentes étapes :
 
 * Étape 1
   * Création de la structure HTML
